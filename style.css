@@ -1,0 +1,14 @@
+/* do not change the css */
+
+table {
+    width: 100%;
+    margin-bottom: 40px;
+  }
+  
+  tr:nth-child(odd) {
+    background: #f0f0f0;
+  }
+  
+  td {
+    padding: 10px;
+  }
